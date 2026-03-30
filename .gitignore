@@ -1,0 +1,6 @@
+# IMPORTANT: Never commit your .env file — it contains your API key
+.env
+
+node_modules/
+npm-debug.log
+.DS_Store
